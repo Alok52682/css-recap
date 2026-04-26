@@ -1,4 +1,19 @@
 h3 {
     font-size: 40px;
     color: coral;
+    text-decoration: overline;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.second {
+    /* display: none; */
+    /* visibility: hidden; */
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.blog {
+    margin: 20px;
+    border: 10px solid magenta;
+    padding: 10px;
+    box-shadow: 5px 4px 10px blueviolet;
 }
